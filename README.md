@@ -1,3 +1,5 @@
-# angular-sb-cc
+An attempt at making a combat calculator for the game Starborne, using Angular.
+I've just made the repository, nothing to see yet.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-sb-cc)
+Google Sheets Combat Calculator:
+https://docs.google.com/spreadsheets/d/1CDN0ei9jP_yC_pJA6xUx5hm40lp45eMLlhhjv2aGQa0
