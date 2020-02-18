@@ -1,4 +1,4 @@
-An attempt at making a combat calculator for the game Starborne, using Angular.
+An attempt at making a combat calculator for the game Starborne, using Angular.\n
 I've just made the repository, nothing to see yet.
 
 Google Sheets Combat Calculator:
